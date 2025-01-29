@@ -1,0 +1,96 @@
+### **Prompt Completo para Desenvolvimento Aplicativo da Útil Digital**  
+
+**Título:** Desenvolvimento Completo do Ecossistema Útil Digital  
+
+**Descrição:**  
+Criar o aplicativo **Útil Digital**, um ecossistema de marketplace composto por três aplicações distintas:  
+1. **Aplicativo para Vendedores**: Gerenciamento de lojas, produtos e estatísticas de vendas.  
+2. **Aplicativo para Compradores**: Experiência de compra moderna, gamificação e funcionalidades sociais.  
+3. **Sistema Web de Super Admin**: Painel de controle para gerenciar e supervisionar todas as atividades das duas aplicações.  
+
+O projeto deve integrar tecnologias modernas para desempenho, segurança e inovação.  
+
+---
+
+**Características Gerais:**  
+1. **Integração com Web3 e Blockchain:**  
+   - Uso de **Smart Contracts** para registro seguro de lojas.  
+   - Criação de uma criptomoeda própria chamada **Util Coin**.  
+   - Pagamento com criptomoedas populares e moeda fiat.  
+
+2. **Inovação no Checkout:**  
+   - **Upsell:** Ofereça produtos ou serviços adicionais após a compra inicial.  
+   - **Downsell:** Alternativas mais acessíveis para evitar a perda da venda.  
+   - **OrderBump:** Ofertas adicionais no checkout.  
+   - **Carrinho Persistente** e **Checkout de Um Clique** para uma experiência contínua.  
+
+3. **Gamificação e Fidelização:**  
+   - Jogo diário para usuários ganharem **Util Coins**.  
+   - Programa de indicações com comissões de 1.5% por 12 meses.  
+
+4. **Painel do Super Admin:**  
+   - Gerenciamento completo de vendedores, compradores, transações, categorias e cupons.  
+   - Controle de segurança, analytics e estatísticas globais.  
+
+---
+
+**Tecnologias Sugeridas:**  
+
+1. **Frontend:**  
+   - **React Native**: Para desenvolvimento dos aplicativos móveis (vendedores e compradores).  
+   - **React.js + Next.js**: Para o Sistema Web do Super Admin e site responsivo.  
+
+2. **Backend:**  
+   - **Node.js** com **TypeScript** para APIs e lógica de negócios.  
+   - **Django** (Python) para recursos críticos como segurança e gerenciamento avançado.  
+   - **Rust** para contratos inteligentes em **Solana** e outras funcionalidades de alta performance.  
+
+3. **Blockchain:**  
+   - **Polygon** para transações rápidas e escaláveis com baixas taxas.  
+   - **Solana** para integração de contratos inteligentes rápidos e seguros.  
+
+4. **Armazenamento e Infraestrutura:**  
+   - **Amazon S3** para armazenamento de mídias.  
+   - **Supabase** ou **PostgreSQL** para banco de dados escalável.  
+   - **Docker** e **Kubernetes** para gerenciamento de containers.  
+
+5. **Autenticação e Segurança:**  
+   - **OAuth 2.0** e **JWT** para autenticação.  
+   - **SSL** e firewalls para segurança de dados.  
+
+6. **Pagamentos e Notificações:**  
+   - Integração com APIs de pagamento como **Mercado Pago**, **Stripe**, **PagSeguro** e **Asaas**.  
+   - Automação via **WhatsApp**, **SMS**, e **E-mail** para remarketing e notificações.  
+
+---
+
+**Tarefas de Desenvolvimento:**  
+
+1. **Configuração Inicial:**  
+   - Criação de repositórios e definição de arquitetura (monorepo para gestão centralizada).  
+   - Configuração de ambientes para desenvolvimento, testes e produção.  
+
+2. **Desenvolvimento do Aplicativo para Vendedores:**  
+   - Design de interfaces para cadastro e gerenciamento de lojas.  
+   - Implementação de funcionalidades como estatísticas e convites para afiliados.  
+
+3. **Desenvolvimento do Aplicativo para Compradores:**  
+   - Design de uma interface amigável com carrinho persistente.  
+   - Implementação de gamificação e funcionalidades sociais.  
+
+4. **Desenvolvimento do Sistema Web Super Admin:**  
+   - Criação de painéis de controle com gráficos e relatórios avançados.  
+   - Integração com APIs de backend para gerenciamento centralizado.  
+
+5. **Integração Blockchain:**  
+   - Configuração de contratos inteligentes e integração com carteiras digitais.  
+   - Testes e auditorias de segurança para contratos inteligentes.  
+
+6. **Teste e Deploy:**  
+   - Testes unitários, de integração e end-to-end para todas as aplicações.  
+   - Deploy em serviços escaláveis como AWS ou Google Cloud.  
+
+---
+
+**Resultado Esperado:**  
+Uma solução de marketplace inovadora, com funcionalidade avançada, design atraente e integração com tecnologias de ponta para atender às necessidades de vendedores e compradores no Brasil.
