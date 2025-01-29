@@ -18,29 +18,31 @@ The project consists of three main applications:
    - Next.js web application
    - Comprehensive management system
 
-## Core Technologies
+## Features
 
-- **Frontend**: React Native, Next.js
-- **Backend**: Node.js (TypeScript), Django (Python), Rust
-- **Blockchain**: Polygon, Solana
-- **Database**: Supabase/PostgreSQL
-- **Infrastructure**: Docker, Kubernetes
+- Modern UI/UX design
+- Web3 integration
+- Multi-platform support
+- Real-time updates
+- Advanced analytics
+- Secure authentication
+- Payment processing
+- Inventory management
 
 ## Getting Started
 
-1. Install dependencies:
-```bash
-pnpm install
-```
+1. Clone the repository
+2. Install dependencies: `pnpm install`
+3. Start development server: `pnpm dev`
 
-2. Start development servers:
-```bash
-pnpm dev
-```
+## Tech Stack
 
-## Documentation
-
-Detailed documentation for each component can be found in their respective directories:
-- `/apps/vendor/README.md`
-- `/apps/customer/README.md`
-- `/apps/admin/README.md`
+- TypeScript
+- React Native
+- Next.js
+- Node.js
+- PostgreSQL
+- Redis
+- Docker
+- Prisma
+- Web3.js
